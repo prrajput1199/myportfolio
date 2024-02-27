@@ -1,11 +1,12 @@
 import React from 'react'
+import Header from './components/Header'
 
 const App = () => {
   return (
-    <div className='bg-black text-green-500'>
-      <Menu/>
+    <div >
+      <Header/>
 
-      <About/>
+      {/* <About/>
 
       <Services/>
 
@@ -13,7 +14,7 @@ const App = () => {
 
       <Contact/>
 
-      <Footer/>
+      <Footer/> */}
     </div>
   )
 }
