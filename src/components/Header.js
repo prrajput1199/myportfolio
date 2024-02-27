@@ -10,11 +10,12 @@ const Header = () => {
         <span>Projects</span>
         <span>Contact</span>
       </div> */}
-      <div className="menu h-full flex flex-col justify-center align-middle m-3 space-y-4">
+      <div className="menu h-full w-full flex flex-col justify-center align-middle m-3 space-y-4">
         <span>Home</span>
         <span>About</span>
         <span>Services</span>
         <span>Projects</span>
+        <span>Testimonials</span>
         <span>Contact</span>
       </div>
     </>
